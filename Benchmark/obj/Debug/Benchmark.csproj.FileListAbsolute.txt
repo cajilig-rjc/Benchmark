@@ -1,0 +1,5 @@
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\Benchmark\bin\Debug\Benchmark.dll
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\Benchmark\bin\Debug\Benchmark.pdb
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\Benchmark\obj\Debug\Benchmark.csprojResolveAssemblyReference.cache
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\Benchmark\obj\Debug\Benchmark.dll
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\Benchmark\obj\Debug\Benchmark.pdb

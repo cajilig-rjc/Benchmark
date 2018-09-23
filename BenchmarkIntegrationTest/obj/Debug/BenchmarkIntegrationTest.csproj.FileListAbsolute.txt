@@ -1,0 +1,8 @@
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\bin\Debug\BenchmarkIntegrationTest.exe.config
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\bin\Debug\BenchmarkIntegrationTest.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\bin\Debug\BenchmarkIntegrationTest.pdb
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\bin\Debug\Benchmark.dll
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\bin\Debug\Benchmark.pdb
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\obj\Debug\BenchmarkIntegrationTest.csprojResolveAssemblyReference.cache
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\obj\Debug\BenchmarkIntegrationTest.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\Benchmark\BenchmarkIntegrationTest\obj\Debug\BenchmarkIntegrationTest.pdb
